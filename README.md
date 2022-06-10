@@ -1,3 +1,7 @@
+The Assignment is completed in terraform, below is the architecture diagram and the steps to run.
+
+![alt text](./Arch-Diagram.png)
+
 # Steps to run:
 ===================
 
