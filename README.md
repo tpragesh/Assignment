@@ -1,7 +1,7 @@
 # Steps to run:
 ===================
 
-Once you have terraform installed, clone the directory and then run below Commands.
+Once you have terraform installed, clone the files and then run below Commands.
 
 >> Initialize Terraform:
 terraform init
