@@ -7,20 +7,20 @@ The Assignment is completed in terraform, below is the architecture diagram and 
 
 Once you have terraform installed, clone the files and then run below Commands.
 
->> Initialize Terraform:
-terraform init
+[1] Initialize Terraform:-
+>> terraform init
 
->> Validate Terraform configuration files:
-terraform validate
+[2] Validate Terraform configuration files:-
+>> terraform validate
 
->> Format Terraform configuration files:
-terraform fmt
+[3] Format Terraform configuration files:-
+>> terraform fmt
 
->> Review the terraform plan:
-terraform plan
+[4] Review the terraform plan:-
+>> terraform plan
 
->> Create Resources:
-terraform apply -var="aws_region=REGION"
+[5] Create Resources:-
+>> terraform apply -var="aws_region=REGION"
 
 Example: terraform apply -var="aws_region=us-east-1"
 
